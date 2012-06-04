@@ -1,0 +1,28 @@
+{
+  "name": "cubism-browser",
+  "version": "1.2.0-1",
+  "description": "cubism npm package for browsers",
+  "keywords": [
+    "visualization",
+    "d3",
+    "graph",
+    "series",
+    "time"
+  ],
+  "homepage": "http://square.github.com/cubism/",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "http://bost.ocks.org/mike"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kapouer/cubism-browser.git"
+  },
+  "main": "./index.js",
+  "directories": {
+    "javascripts": "./js"
+  },
+  "dependencies": {
+    "d3-browser": ">=2.9.2-1"
+  }
+}
